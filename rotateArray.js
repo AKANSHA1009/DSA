@@ -24,7 +24,6 @@ console.log("Rotated Array: " + result);  // Output: [4, 5, 1, 2, 3]
 
 
 
-
 // // Brute Force Approach to rotate the array to the right by 'k' steps
 // function rotateArrayBruteForce(arr, k) {
 //     let n = arr.length;
